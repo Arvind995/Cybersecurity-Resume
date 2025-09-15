@@ -1,5 +1,5 @@
 # ARVIND K.B
-Email: kbarvind@hotmail.com | Phone: 0455774127 |Github: https://github.com/Arvind995|
+**Email:** kbarvind@hotmail.com | **Phone:** 0455774127 | **Github:** https://github.com/Arvind995 |
 
 ---
 
@@ -9,10 +9,11 @@ Entry-level cybersecurity analyst with hands-on experience in packet analysis, n
 ---
 
 ## Technical Skills
-- **Security Tools:** Wireshark, Nmap, Kali Linux, Metasploit  
-- **Tech Skills:** Python, Bash scripting, Linux CLI  
-- **Security Knowledge:** Vulnerability Scanning, Network Traffic Analysis, Threat Detection  
-- **Certifications:** Google Cybersecurity Certificate (in progress), CompTIA Security+ (in progress)
+- **Security Tools:** Wireshark, Nmap, Kali Linux, Metasploit
+- **Network & Protocols:** TCP/IP, DNS, HTTP/HTTPS, DHCP, SMTP, ICMP 
+- **Tech Skills:** Python(numpy, pandas), Bash scripting, Linux CLI, matplotlib
+- **Security Knowledge:** Vulnerability Scanning, Network Traffic Analysis, Threat Detection, Malware Analysis, SOC Fundamentals
+- **Certifications:** Google Cybersecurity Certificate, CompTIA Security+ (in progress)
 
 ---
 
@@ -24,34 +25,37 @@ Entry-level cybersecurity analyst with hands-on experience in packet analysis, n
 
 ## Work Experience
 
-**Pharmaceutical Production Supervisor | Medical Devolpments International, Scoresby,  | [Month Year – Present]**  
+**Pharmaceutical Production Chemist | Medical Devolpments International | Scoresby, Victoria | March 2023-Present**
 - Ensured compliance with GMP standards and SOPs in a highly regulated environment.  
-- Troubleshot technical production issues, improving reliability and quality.  
-- Maintained accurate documentation and handled audits/inspections.
+- Monitored production data and performed quality checks, using Excel and Python scripts for trend analysis and anomaly detection.   
+- Participated in cybersecurity awareness initiatives for production systems, including access control and secure handling of digital lab records.
+-  Troubleshot technical production issues, improving reliability and quality.
 
-**Software Engineer | [Software Company] | [Month Year – Month Year]**  
-- Developed and maintained software systems with emphasis on performance and compliance.  
-- Implemented testing and debugging to improve code quality.  
-- Collaborated with cross-functional teams to troubleshoot and deploy solutions.
+**Software Engineer | Promantus Inc. | Chennai, India |  May 2021 – December 2022**  
+- Developed and maintained software systems with emphasis on data collection, preprocessing, and analysis.  
+- Collaborated with cross-functional teams to analyze datasets and identify patterns, trends, and potential risks.
+- Assisted in automating data pipelines and integrating analytical tools to support decision-making processes.
+- Implemented basic machine learning models and statistical techniques to predict trends and optimize internal processes.
 
-**Pharmaceutical Production Associate / Engineer | [Previous Pharma Company] | [Month Year – Month Year]**  
-- Assisted in production processes while ensuring strict adherence to GMP standards.  
-- Supported troubleshooting of equipment and process issues.  
-- Documented processes and assisted with quality audits.
+**Pharmaceutical Production Associate | PCI Pharma Services | Port Melbourne, Victoria | September 2016- November 2018 |**  
+- Conducted regular checks on production equipment interfaces to ensure secure data logging and controlled access to digital records.  
+- Assisted IT/security teams in implementing user access controls and audit trails for GMP-critical systems.  
+- Helped identify and report unusual network or system behavior in lab/production systems to maintain compliance and security standards.  
+- Participated in cybersecurity awareness training and promoted secure handling of sensitive production and customer data.
 
 ---
 
 ## Certifications
-- Google Cybersecurity Certificate (expected 2025)  
+- Google Cybersecurity Certificate   
 - CompTIA Security+ (in progress)
+- Computer Systems Validation
 
 ---
 
 ## Education
-[Degree or Diploma] – [Institution], [Year]
+- **Masters of Biotechnology  – | University of Queensland | Brisbane, Australia | 2018 |**
+- **Bachelors of Engineering in Biotechnology - | SRM University | Chennai, India | 2016 |**
 
 ---
 
-## Achievements / Extra
-- TryHackMe Labs (completed)  
-- CTF participation (entry-level)
+
