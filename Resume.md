@@ -17,7 +17,7 @@ Entry-level cybersecurity analyst with hands-on experience in packet analysis, n
 
 ---
 
-## Projects (GitHub)
+## Projects
 - **Zeus PCAP Malware Analysis** – Analyzed DNS, HTTP, and beaconing behavior from malicious PCAP files using Wireshark. [https://github.com/Arvind995/Zeus-PCAP-Analysis]  
 - **Metasploitable Vulnerability Scan** – Conducted Nmap scans on Metasploitable VM to identify open ports, services, and potential vulnerabilities. [https://github.com/Arvind995/Metasploitable-Nmap-Analysis]
 
